@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"!1edexi","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"kaogora1ga-ru","traits":[],"initialLevel":1,"maxLevel":99,"name":"エディ","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":1,"characterName":"!1edexi","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"kaogora2ga-ru","traits":[],"initialLevel":1,"maxLevel":99,"name":"素顔エディ","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":2,"characterName":"!1ga-ru","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"kaogora3ga-ru","traits":[],"initialLevel":1,"maxLevel":99,"name":"彼女","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"$1hutari","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"kaogora1ga-ru","traits":[],"initialLevel":1,"maxLevel":99,"name":"二人エディ","nickname":"","note":"","profile":""}
+]
